@@ -11,7 +11,11 @@
 
 ![Deko GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-deko&show_icons=true&theme=cobalt)
 
-
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
 ### Tecnologias developer que uso no meu dia
 <div style=" display: inline_block">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -28,3 +32,5 @@
 ">
   <img align="center" alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white
 ">
+ </body>
+ </html>
