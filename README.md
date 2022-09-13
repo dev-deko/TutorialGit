@@ -16,6 +16,7 @@
 <head>
 </head>
 <body>
+    
 ### Tecnologias developer que uso no meu dia
 <div style=" display: inline_block">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
